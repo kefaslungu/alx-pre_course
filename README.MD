@@ -1,16 +1,3 @@
-mMy first readme
-this, is an updated readme file' >>README.MD
+My first readme
 
-
-echo this, is an updated readme file >>README.MD
-
-
-
-
-
-
-
-cat
-
-echo "this, is an updated readme file
-second line of my readme file
+this, is an updated readme file
